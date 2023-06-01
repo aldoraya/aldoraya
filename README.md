@@ -159,7 +159,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=ticketing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/aldoraya/prakerin">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=prakerin-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=prakerin&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/aldoraya/Airpa-App">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=Airpa-App&theme=tokyonight" alt="GitHub Stats" />
