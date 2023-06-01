@@ -147,7 +147,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/aldoraya/nft-preview-card-component">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=nft-preview-card-component&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/aldoraya/sunnyside-agency-landing-page-main">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
