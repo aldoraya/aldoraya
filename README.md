@@ -170,9 +170,6 @@
 	<a href="https://github.com/aldoraya/tourism-space">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=tourism-space&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	  <a href="https://github.com/aldoraya">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=aldoraya&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
   </p>
 </div>
 </details>
