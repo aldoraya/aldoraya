@@ -121,7 +121,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aldoraya&theme=tokyonight_duo" alt="aldoraya" /></p>
 
 </details>
   
@@ -131,8 +131,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt=7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt=7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aldoraya&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldoraya&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -150,25 +150,28 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=nft-preview-card-component&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/aldoraya/sunnyside-agency-landing-page-main">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=sunnyside-agency-landing-page-main&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/aldoraya/api-berita-indonesia">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=api-berita-indonesia&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/aldoraya/ticketing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=ticketing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/aldoraya/prakerin">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=prakerin-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/aldoraya/Airpa-App">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=Airpa-App&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/aldoraya/newsletter-sign-up">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=newsletter-sign-up&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/aldoraya/tourism-space">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=tourism-space&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/aldoraya">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoraya&repo=aldoraya&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
